@@ -1,4 +1,5 @@
 # SOCH NGO Website
+[![Netlify Status](https://api.netlify.com/api/v1/badges/997e00fd-1116-4857-b386-bd397e79eac5/deploy-status?branch=main)](https://app.netlify.com/sites/sochngo/deploys)
 
 ## Introduction
 Welcome to the repository for the SOCH website version 2 project. This project aims to enhance the SOCH website's user experience, improve content manageability, and integrate modern web technologies for better performance and accessibility.
