@@ -9,4 +9,4 @@ posts:
   - description: Sample Description 3
     name: Sample Name 3
 ---
-SochNGO sample home content
+SochNGO sample home content for development
